@@ -52,12 +52,7 @@
   <h2>Dataset</h2>
     <p>MIT-BIH Arrhythmia Database: <a href="https://physionet.org/content/mitdb/1.0.0/">https://physionet.org/content/mitdb/1.0.0/</a></p>
 
-   <h2>References</h2>
-    <ol>
-        <li>Hannun et al. (2019). Cardiologist-level arrhythmia detection with a deep neural network.</li>
-        <li>Kachuee et al. (2018). ECG Heartbeat Classification: A Deep Transferable Representation.</li>
-    </ol>
-
+   
 </body>
 </html>
 
