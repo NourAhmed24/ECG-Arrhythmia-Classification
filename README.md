@@ -40,12 +40,6 @@
    <hr>
 
  
- 
-
-  <h3>2. Download and preprocess data</h3>
-    <pre>from src.data_preprocessing import prepare_data
-X_train, X_test, y_train, y_test, weights, le = prepare_data(download=True)</pre>
-
 
    <h2>Requirements</h2>
     <ul>
@@ -66,4 +60,4 @@ X_train, X_test, y_train, y_test, weights, le = prepare_data(download=True)</pre
 
 </body>
 </html>
-```
+
