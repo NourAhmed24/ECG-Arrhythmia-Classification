@@ -2,7 +2,7 @@
     <p>A TensorFlow implementation of a 1D Convolutional Neural Network for classifying cardiac arrhythmias from ECG signals using the MIT-BIH Arrhythmia Database.</p>
 
    <h2>Overview</h2>
-    <p>This project implements a 1D CNN that classifies ECG beats into 5 categories (N, S, V, F, Q) following the AAMI standard, achieving state-of-the-art performance on the MIT-BIH dataset.</p>
+    <p>This project implements a 1D CNN that classifies ECG beats into 5 categories (N, S, V, F, Q) following the AAMI standard.</p>
 
    <table>
         <tr>
