@@ -46,7 +46,7 @@
         <li>Python 3.8+</li>
         <li>TensorFlow 2.10+</li>
         <li>4GB RAM minimum</li>
-        <li>No GPU required (CPU training ~30-60 min)</li>
+        <li>No GPU required </li>
     </ul>
 
   <h2>Dataset</h2>
