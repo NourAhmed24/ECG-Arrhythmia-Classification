@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[4]:
 
 
 import matplotlib.pyplot as plt
@@ -27,9 +27,15 @@ def visualize_preprocessing(record_name='100'):
     plt.legend()
     
     plt.tight_layout()
+    plt.savefig('ECG_preprocessing_comparison.png',dpi=300)
     plt.show()
-
 visualize_preprocessing('100')
+
+
+# In[3]:
+
+
+plt.savefig('ECG_preprocessing_comparison.png',dpi=300)
 
 
 # In[ ]:
