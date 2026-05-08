@@ -1,0 +1,12 @@
+{
+  "batch_size": 128,
+  "epochs": 50,
+  "learning_rate": 0.01,
+  "input_length": 360,
+  "num_classes": 5,
+  "data_path": "data/mitdb",
+  "model_save_path": "results/best_model.keras",
+  "results_dir": "results",
+  "test_accuracy": 0.9196029901504517,
+  "test_loss": 0.5901282429695129
+}
