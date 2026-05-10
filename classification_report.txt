@@ -1,0 +1,19 @@
+ECG Arrhythmia Classification Report
+========================================
+                      precision    recall  f1-score   support
+
+          N (Normal)     0.0000    0.0000    0.0000        21
+S (Supraventricular)     0.9692    0.9401    0.9544     14204
+     V (Ventricular)     0.8254    0.9641    0.8893      1809
+          F (Fusion)     0.0597    0.0274    0.0376       292
+      Q (Unknown/PM)     0.6556    0.7892    0.7162       702
+
+            accuracy                         0.9196     17028
+           macro avg     0.5020    0.5441    0.5195     17028
+        weighted avg     0.9242    0.9196    0.9208     17028
+
+
+Summary Metrics:
+  Overall Accuracy : 91.96%
+  Macro F1         : 51.95%
+  Weighted F1      : 92.08%
